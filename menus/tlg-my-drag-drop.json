@@ -1,0 +1,33 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle tlg-my-drag-drop",
+        "command": "tlg-my-drag-drop:toggle"
+      }, {
+        "label": "Toggle tlg-my-drag-drop-bok",
+        "command": "tlg-my-drag-drop:bokum"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "tlg-my-drag-drop",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "tlg-my-drag-drop:toggle"
+            },
+            {
+              "label": "Bokum",
+              "command": "tlg-my-drag-drop:bokum"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

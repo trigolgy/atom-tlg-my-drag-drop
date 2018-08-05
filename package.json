@@ -1,0 +1,18 @@
+{
+  "name": "tlg-my-drag-drop",
+  "main": "./lib/tlg-my-drag-drop",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "tlg-my-drag-drop:toggle"
+  },
+  "repository": "https://github.com/trigolgy/tlg-my-drag-drop",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
