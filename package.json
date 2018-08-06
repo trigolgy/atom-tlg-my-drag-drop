@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "tlg-my-drag-drop:toggle"
   },
-  "repository": "https://github.com/trigolgy/tlg-my-drag-drop",
+  "repository": "https://github.com/trigolgy/atom-tlg-my-drag-drop",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
